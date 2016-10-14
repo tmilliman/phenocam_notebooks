@@ -1,0 +1,6 @@
+{
+  "name": "Phenocam notebooks",
+  "tagline": "Jupyter Notebooks for PhenoCam",
+  "body": "phenocam_notebooks\r\n==================\r\n\r\nA collection of iPython Notebooks relating to PhenoCam processing.\r\nThe PhenoCam Project website is hosted at:\r\n\r\n[phenocam.sr.unh.edu](https://phenocam.sr.unh.edu)\r\n\r\nThe PhenoCam project is an NSF funded collaboration between Harvard University, Boston\r\nUniversity, Washington University (St. Louis) and the University\r\nof New Hampshire.  \r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}

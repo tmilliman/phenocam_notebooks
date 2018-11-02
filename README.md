@@ -1,7 +1,7 @@
 phenocam_notebooks
 ==================
 
-A collection of iPython Notebooks relating to PhenoCam processing.
+A collection of Jupyter Notebooks relating to PhenoCam processing.
 The PhenoCam Project website is hosted at:
 
 [phenocam.sr.unh.edu](https://phenocam.sr.unh.edu)

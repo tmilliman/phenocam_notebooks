@@ -1,7 +1,0 @@
-name: phenocam
-dependencies:
-  - python=3.7
-  - numpy
-  - matplotlib
-  - pillow
-  
